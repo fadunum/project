@@ -1,0 +1,132 @@
+@font-face {
+    font-family: Garamond;
+    src: local("EBGaramond")
+}
+
+html, body{
+    font-family: "Garamond";
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.mainbackground {
+    display: block;
+    width: 33%;
+    margin: auto;
+    z-index: 1;
+}
+
+.fab {
+    position: absolute;
+    width: 8%;
+    margin-top: -47%;
+    margin-left: 33%;
+    z-index: 3;
+}
+
+.imagebinaire {
+    position: absolute;
+    width:26%;
+    margin-top: -44%;
+    margin-left: 15%;
+    z-index: 2;
+}
+
+.imagebinaire2 {
+    position: absolute;
+    width:15%;
+    margin-top: -50%;
+    margin-left: 65%;
+    z-index: 2;
+}
+
+.win10 {
+    position: absolute;
+    width: 4%;
+    margin-top: -45%;
+    margin-left: 60%;
+    z-index: 2;
+}
+
+.imgvsc{
+    position: absolute;
+    width: 3%;
+    margin-top: -41%;
+    margin-left: 61.5%;
+    z-index: 2;
+}
+
+.imggit{
+    position: absolute;
+    width: 3%;
+    margin-top: -39%;
+    margin-left: 59%;
+    z-index: 2;
+}
+
+.imghtml {
+    position: absolute;
+    width: 4%;
+    margin-top: -35%;
+    margin-left: 58%;
+    z-index: 2;
+}
+
+.imgcss{
+    position: absolute;
+    width: 3%;
+    margin-top: -33%;
+    margin-left: 61%;
+    z-index: 2;
+}
+
+.photo {
+    position: absolute;
+    width: 33%;
+    margin-top: -42.7%;
+    margin-left: 33.5%;
+    z-index: 0;
+}
+
+h1 {
+    position: absolute;
+    font-size: 3vw;
+    text-align: center;
+    margin-top: -13%;
+    margin-left: 40%;
+    z-index: 1;
+}
+
+h2 {
+    position: absolute;
+    text-align: center;
+    font-size: 1.2vw;
+    margin-top:-6%;
+    margin-left:41%;
+    z-index: 1;
+}
+
+.courriel {
+    position: absolute;
+    width: 3%;
+    margin-top:-7%;
+    margin-left:35%;
+    z-index: 1;
+}
+
+.linkedin {
+    width: 3%;
+    margin-top: -4%;
+    margin-left: 35%;
+    z-index: 1;
+    position: absolute;
+}
+
+.CV {
+    width: 4%;
+    position: absolute;
+    margin-top: -6%;
+    margin-left: 61%;
+    z-index: 1;
+}
