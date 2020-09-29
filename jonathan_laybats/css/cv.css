@@ -1,0 +1,26 @@
+.moncv 
+{
+    width: 33%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+input
+{
+    margin-top: -48px;
+    margin-left: 70%;
+    color: black;
+    background-color: #ffc000;
+    border-radius: 5px;
+    display:block;
+    width:100px;
+    line-height:25px;
+    text-align:center;
+    text-decoration:none;
+    font-family: Arial,sans-serif;
+}
+input:hover
+{
+    color: #ffc000;
+    background-color: black;
+}
