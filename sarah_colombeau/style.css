@@ -1,0 +1,131 @@
+@font-face {
+    font-family: Garamond;
+    src: local("EBGaramond")
+}
+
+html, body{
+    font-family: "Garamond";
+    background-color: burlywood;
+    width: 100%;
+    height: 100%;
+ }
+
+.mainbackground {
+    display: block;
+    width: 33%;
+    margin: auto;
+    z-index: 1;
+}
+
+.fab {
+    position: absolute;
+    width: 3%;
+    margin-top: -62%;
+    margin-left: 36%;
+    z-index: 3;
+}
+.win10 {
+    position: absolute;
+    width: 4%;
+    margin-top: -62%;
+    margin-left: 60%;
+    z-index: 2;
+}
+
+.imgps{
+    position: absolute;
+    width: 4%;
+    margin-top: -56%;
+    margin-left: 40%;
+    z-index: 2;
+}
+.imgcv {
+    position: absolute;
+    width: 5%;
+     margin-top:-68%;
+     margin-left: 68%;
+     }
+
+.imggtv{
+    position: absolute;
+    width: 2%;
+    margin-top: -62%;
+    margin-left: 53%;
+    z-index: 2;
+}
+
+.imgwd {
+    position: absolute;
+    width: 3%;
+    margin-top: -58%;
+    margin-left: 58%;
+    z-index: 2;
+}
+.imgme {
+    position: absolute;
+    width: 4%;
+    margin-top: -54%;
+    margin-left: 59%;
+    z-index: 2;
+}
+
+.imgvsc{
+    position: absolute;
+    width: 2%;
+    margin-top: -60%;
+    margin-left: 45%;
+    z-index: 2;
+
+}
+h1 {
+    position: absolute;
+    font-size: 1.8vw;
+    text-align: center;
+    margin-top: -20%;
+    margin-left: 41%;
+    z-index: 1;
+    color: goldenrod;    
+}
+
+h2 {
+    position: absolute;
+    text-align: center;
+    font-size: 1vw;
+    margin-top:-15%;
+    margin-left:39%;
+    z-index: 1;
+    color:greenyellow;     
+}
+h3 {
+    position: absolute;
+    text-align: center;
+    font-size: 0.7vw;
+    margin-top:-8%;
+    margin-left:37%;
+    z-index: 1;
+    color:greenyellow; 
+}
+
+.courriel {
+    position: absolute;
+    width: 1.5%;
+    margin-top:-3%;
+    margin-left:39%;
+    z-index: 1;
+}
+
+.linkedin {
+    width: 3%;
+    margin-top: -3%;
+    margin-left: 35%;
+    z-index: 1;
+    position: absolute;
+}
+
+.CV {
+    width: 5%;
+    position: absolute;
+    margin-top: -41%;
+    margin-left: 48%;
+    z-index: 1;
+}
