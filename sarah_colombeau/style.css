@@ -20,14 +20,14 @@ html, body{
 .fab {
     position: absolute;
     width: 3%;
-    margin-top: -55%;
+    margin-top: -45%;
     margin-left: 36%;
     z-index: 3;
 }
 .win10 {
     position: absolute;
     width: 4%;
-    margin-top: -62%;
+    margin-top: -45%;
     margin-left: 60%;
     z-index: 2;
 }
@@ -35,45 +35,37 @@ html, body{
 .imgps{
     position: absolute;
     width: 4%;
-    margin-top: -56%;
+    margin-top: -45%;
     margin-left: 40%;
     z-index: 2;
 }
 .imgcv {
     position: absolute;
-    width: 5%;
-     margin-top:-68%;
+    width: 8%;
+     margin-top: 15%;
      margin-left: 68%;
      }
 
 .imggtv{
     position: absolute;
     width: 2%;
-    margin-top: -62%;
+    margin-top: -45%;
     margin-left: 53%;
     z-index: 2;
 }
 
 .imgwd {
     position: absolute;
-    width: 3%;
-    margin-top: -58%;
-    margin-left: 58%;
-    z-index: 2;
-}
-.imgme {
-    position: absolute;
     width: 4%;
-    margin-top: -54%;
-    margin-left: 59%;
+    margin-top: -48%;
+    margin-left: 56%;
     z-index: 2;
 }
-
 .imgvsc{
     position: absolute;
     width: 2%;
-    margin-top: -60%;
-    margin-left: 45%;
+    margin-top: -40%;
+    margin-left: 55%;
     z-index: 2;
 
 }
@@ -125,7 +117,7 @@ h3 {
 .CV {
     width: 5%;
     position: absolute;
-    margin-top: -41%;
-    margin-left: 48%;
+    margin-top: -47.5%;
+    margin-left: 45%;
     z-index: 1;
 }
